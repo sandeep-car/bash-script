@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# File sizes are random (between MINFILESIZE and MAXFILESIZE.
+# Contents of the files are random as well.
 # Mount point of NFS export.
 TARGDIR="/mnt/fs/smallfiles"
 # All file sizes are in bytes.
